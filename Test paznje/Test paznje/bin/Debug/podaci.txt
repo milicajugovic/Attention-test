@@ -1,0 +1,60 @@
+milica 17 5 žensko
+Test 1: 8
+Test 2: 3
+Test 3: 6
+Test 4: 4
+Saška 20 8.30 žensko
+Test 1: 12
+Test 2: 3
+Test 3: 5
+Test 4: 4
+sara 15 4.00 žensko
+Test 1: 10
+Test 2: 3
+Test 3: 4
+Test 4: krug
+Nataša 43 0.00 žensko
+Test 1: 8
+Test 2: 3
+Test 3: 4
+Test 4: 0
+sasa 47 0.00 muško
+Test 1: 10
+Test 2: 2
+Test 3: 10
+Test 4: 4
+Ritik 21 0.00 muško
+Test 1: 11
+Test 2: 4
+Test 3: 7
+Test 4: 4
+Mladen 18 4.63 muško
+Test 1: 13
+Test 2: 2
+Test 3: 10
+Test 4: 4
+Milica T 18 4.82 žensko
+Test 1: 9
+Test 2: 3
+Test 3: 10
+Test 4: 4
+Andjela 17 5.00 žensko
+Test 1: 15
+Test 2: 3
+Test 3: 8
+Test 4: 4
+Bane 31 0.00 muško
+Test 1: 9
+Test 2: 3
+Test 3: 7
+Test 4: 4
+milica 17 5.00 žensko
+Test 1: 8
+Test 2: 3
+Test 3: 6
+Test 4: 4
+stefan 20 0.00 muško
+Test 1: 20
+Test 2: 3
+Test 3: 6
+Test 4: krugovi

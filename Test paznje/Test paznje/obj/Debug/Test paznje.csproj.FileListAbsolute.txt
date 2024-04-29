@@ -1,0 +1,16 @@
+C:\Users\Milica\Skola\Psihologija\Test paznje\Test paznje\bin\Debug\Test paznje.exe.config
+C:\Users\Milica\Skola\Psihologija\Test paznje\Test paznje\bin\Debug\Test paznje.exe
+C:\Users\Milica\Skola\Psihologija\Test paznje\Test paznje\bin\Debug\Test paznje.pdb
+C:\Users\Milica\Skola\Psihologija\Test paznje\Test paznje\obj\Debug\Test paznje.csproj.AssemblyReference.cache
+C:\Users\Milica\Skola\Psihologija\Test paznje\Test paznje\obj\Debug\Test_paznje.Properties.Resources.resources
+C:\Users\Milica\Skola\Psihologija\Test paznje\Test paznje\obj\Debug\Test paznje.csproj.GenerateResource.cache
+C:\Users\Milica\Skola\Psihologija\Test paznje\Test paznje\obj\Debug\Test paznje.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Skola\Psihologija\Test paznje\Test paznje\obj\Debug\Test paznje.exe
+C:\Users\Milica\Skola\Psihologija\Test paznje\Test paznje\obj\Debug\Test paznje.pdb
+C:\Users\Milica\Skola\Psihologija\Test paznje\Test paznje\obj\Debug\Test_paznje.uvod.resources
+C:\Users\Milica\Skola\Psihologija\Test paznje\Test paznje\obj\Debug\Test_paznje.unosPodataka.resources
+C:\Users\Milica\Skola\Psihologija\Test paznje\Test paznje\obj\Debug\Test_paznje.krugovi.resources
+C:\Users\Milica\Skola\Psihologija\Test paznje\Test paznje\obj\Debug\Test_paznje.sviTestovi.resources
+C:\Users\Milica\Skola\Psihologija\Test paznje\Test paznje\obj\Debug\Test_paznje.test3.resources
+C:\Users\Milica\Skola\Psihologija\Test paznje\Test paznje\obj\Debug\Test_paznje.test4.resources
+C:\Users\Milica\Skola\Psihologija\Test paznje\Test paznje\obj\Debug\Test_paznje.test2.resources
